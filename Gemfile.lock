@@ -1,0 +1,14 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    colorize (0.7.3)
+    descriptive-statistics (2.1.2)
+    gnuplot (2.6.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  colorize
+  descriptive-statistics
+  gnuplot
